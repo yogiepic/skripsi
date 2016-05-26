@@ -1,0 +1,2 @@
+# skripsi
+khusus skripsi
